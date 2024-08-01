@@ -1,0 +1,37 @@
+.roadmap-container{
+    position: relative;
+    left: 3rem;
+    display: flex;
+}
+
+.roadmap-header input{
+    width: 150px;
+    border: none;
+    box-shadow: 1px 2px 3px lightsalmon;
+    border-radius: 5px;
+}
+
+.roadmap-header{
+    display: flex;
+    gap: 1rem;
+}
+
+.roadmap-btn{
+    margin-left: 1rem;
+    border: none;
+    background-color: none;
+}
+
+.btn{
+    box-shadow: 1px 2px 3px lightsalmon;
+    border-radius: 5px;
+    border: none;
+}
+
+.close-btn{
+    background:none;
+    border: none;
+    position: absolute;
+    bottom: 25px;
+    font-size: 15px;
+}
